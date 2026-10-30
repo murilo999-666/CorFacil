@@ -1,0 +1,7 @@
+# saídas dos testes do PC e de compilação
+*.exe
+*.o
+*.elf
+*.hex
+build/
+memoria*.txt
