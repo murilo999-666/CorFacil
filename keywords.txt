@@ -1,0 +1,34 @@
+# Cores das palavras da CorFacil na IDE do Arduino (separado por TAB)
+
+CorFacil	KEYWORD1
+Cor	KEYWORD1
+iniciar	KEYWORD2
+lerCor	KEYWORD2
+nomeCor	KEYWORD2
+calibrar	KEYWORD2
+calibrado	KEYWORD2
+apagarCalibracao	KEYWORD2
+mensagens	KEYWORD2
+calibrarPeloMonitor	KEYWORD2
+mostrarCalibracao	KEYWORD2
+mostrarLeitura	KEYWORD2
+usarMultiplexador	KEYWORD2
+frequenciaI2C	KEYWORD2
+modoRapido	KEYWORD2
+confirmacoes	KEYWORD2
+atualizar	KEYWORD2
+corAgora	KEYWORD2
+conectado	KEYWORD2
+brilho	KEYWORD2
+croma	KEYWORD2
+matiz	KEYWORD2
+confianca	KEYWORD2
+lerContagens	KEYWORD2
+leiturasPorSegundo	KEYWORD2
+PRETO	LITERAL1
+BRANCO	LITERAL1
+VERDE	LITERAL1
+VERMELHO	LITERAL1
+INDEFINIDO	LITERAL1
+SEM_SENSOR	LITERAL1
+SEM_CALIBRACAO	LITERAL1
